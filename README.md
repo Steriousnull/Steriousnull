@@ -25,8 +25,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 </p>
 
 
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=Steriousnull&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)<br/>
+<br/>![](https://github-readme-stats.vercel.app/api?username=yuvarajucet&theme=light&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steriousnull&layout=compact&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
 
