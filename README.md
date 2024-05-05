@@ -27,6 +27,8 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 
 <br/>![](https://github-readme-stats.vercel.app/api?username=Steriousnull&theme=light&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Steriousnull?ext=contest&theme=dark)](https://leetcode.com/Steriousnull)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steriousnull&layout=compact&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
 
 [![Sterious github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steriousnull&bg_color=000000&color=ffffff&line=00ff80&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
