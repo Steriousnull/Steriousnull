@@ -26,8 +26,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 
 
 <br/>![](https://github-readme-stats.vercel.app/api?username=Steriousnull&theme=light&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Steriousnull?ext=contest&theme=dark)](https://leetcode.com/Steriousnull)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steriousnull&layout=compact&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steriousnull&layout=compact&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
 
@@ -36,7 +35,6 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Steriousnull&" alt="Steriousnull" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=yuvarajucet&theme=light&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajucet&layout=compact&theme=dark&show_icons=true&title_color=FFD700&icon_color=4169E1&text_color=008000&bg_color=000)
+
 
 
