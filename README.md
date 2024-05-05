@@ -10,14 +10,6 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sterious-null-5a3855307/)
 - 😄 Pronouns: Techie
 
-- 💻 **Currently Learning **
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Artificial Intelligence ✍️
-- Machine Learning 🧐
-- Deep Learning 💡
-- Natural Language Processing ✨
-- Time Series Analysis :)
-- Data Science 😬
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/js.png" /> <br/><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" alt="mongodb" width="40" height="40"/> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" alt="express" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
@@ -43,6 +35,15 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Steriousnull&theme=dark" alt="Steriousnull" /></p>
+
+- 💻 **Currently Learning **
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Artificial Intelligence ✍️
+- Machine Learning 🧐
+- Deep Learning 💡
+- Natural Language Processing ✨
+- Time Series Analysis :)
+- Data Science 😬
 
 
 
