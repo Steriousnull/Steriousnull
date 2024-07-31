@@ -1,7 +1,7 @@
 ## folks! I'm Mr.Sterious 👋
 
 I'm a proficient Python programmer passionate about full-stack web development, fueled by a deep interest in cybersecurity and IT technology, including network scanning and penetration testing. Constantly embracing emerging technologies to expand my skill set and innovate on new projects.
-<br/><img  align="right" width="400" src="https://media3.giphy.com/media/QHE5gWI0QjqF2/200.webp?cid=ecf05e47kbjvsmd8cqqb4ny14yubd3ys2si0rbjbmmudn0xb&ep=v1_gifs_search&rid=200.webp&ct=g">
+<br/><img  align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRxYnpqYTNocnh6bXNtM3YzcDB6bHN3bGoxYXYxa2ljNXpndGRpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 - 🌱 Currently developing a Automation program
 - 👯 I'm looking to collaborate on Full Stack web development projects
 - 🤔 I am seeking employment opportunities within startup companies.
