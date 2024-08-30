@@ -8,18 +8,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sterious-null-5a3855307/)
-- 😄 Pronouns: Techie<br/>
-
-
-- 💻 **Currently Learning **
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Artificial Intelligence ✍️
-- Machine Learning 🧐
-- Deep Learning 💡
-- Natural Language Processing ✨
-- Time Series Analysis :)
-- Data Science 😬
-
+- 😄 Pronouns: Techie
 
 
 ### I code in
@@ -47,6 +36,16 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Steriousnull&theme=dark" alt="Steriousnull" /></p>
+
+- 💻 **Currently Learning **
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Artificial Intelligence ✍️
+- Machine Learning 🧐
+- Deep Learning 💡
+- Natural Language Processing ✨
+- Time Series Analysis :)
+- Data Science 😬
+
 
 
 
