@@ -35,7 +35,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 (https://github.com/Steriousnull/github-readme-activity-graph)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Steriousnull&theme=dark" alt="Steriousnull" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush0724&theme=dark" alt="Dhanush0724" /></p>
 
 - 💻 **Currently Learning **
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
