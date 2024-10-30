@@ -13,7 +13,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/js.png" /> <br/>
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/c-programming.png](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)" /> 
+<img height="50" width="50" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" /> 
 <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" alt="mongodb" width="40" height="40"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
   <h3 align="left">Others :</h3>
