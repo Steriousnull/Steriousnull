@@ -17,6 +17,8 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" alt="mongodb" width="40" height="40"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
   <h3 align="left">Others :</h3>
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
 <p align="left"> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="40" height="40"/> </a>  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo.png" alt="Burpsuite" width="60" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
