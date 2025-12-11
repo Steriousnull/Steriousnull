@@ -45,6 +45,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Steriousnull&theme=dark" alt="Steriousnull" /></p>
 
  💻 **Currently Learning **
+- Java Full Stack ^_^
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence ✍️
 - Machine Learning 🧐
