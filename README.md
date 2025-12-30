@@ -50,7 +50,7 @@ I'm a proficient Python programmer passionate about full-stack web development, 
 - Artificial Intelligence ✍️
 - Machine Learning 🧐
 
- *******Bucket List*******
+ ******Bucket List******
 - Deep Learning 💡
 - Natural Language Processing ✨
 - Time Series Analysis :)
